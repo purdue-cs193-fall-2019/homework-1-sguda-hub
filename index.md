@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## sguda@purdue.edu
 ### version Aug 28, 2019
 
-- Bulleted
-- List
+- I enjoy learning the tools needed to actually learn Java, for the reason that understanding the tools is critical to learning the language
+- The instructors of CS193 seem to be well versed in the Java language as well as the other topics about the CS department. It is always good to learn from upperclassmen about the new subject that I am about to study.  
+- By the end of this course I will be able to learn more about how computers/coding actually work, thereby allowing myself to become a more confident programmer. 
 
 1. Numbered
 2. List
